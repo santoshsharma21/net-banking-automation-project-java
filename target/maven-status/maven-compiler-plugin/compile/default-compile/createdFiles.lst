@@ -1,0 +1,15 @@
+com\webbanking\pageobjects\OpenAccountPage.class
+com\webbanking\pageobjects\TransactionDetailsPage.class
+com\webbanking\utilities\ListenerClass.class
+com\webbanking\pageobjects\CustomerPage.class
+com\webbanking\utilities\TestUtils.class
+com\webbanking\pageobjects\AccountPage.class
+com\webbanking\pageobjects\CustomerDetailsPage.class
+com\webbanking\base\BaseClass.class
+com\webbanking\dataprovider\DataProviders.class
+com\webbanking\pageobjects\AddCustomerPage.class
+com\webbanking\utilities\XLUtils.class
+com\webbanking\utilities\ReadConfig.class
+com\webbanking\pageobjects\LoginPage.class
+com\webbanking\utilities\ReportingClass.class
+com\webbanking\pageobjects\ManagerPage.class

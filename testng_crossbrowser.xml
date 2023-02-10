@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Cross-Browser">
+
+	<listeners>
+		<listener class-name="com.webbanking.utilities.ListenerClass"></listener>
+	</listeners>
+
+	<test name="Chrome-Test">
+		<parameter name="browser" value="chrome"></parameter>
+		<classes>
+			<class name="com.webbanking.testcases.TC_CustomerDetailsPage" />
+			<class name="com.webbanking.testcases.TC_AddCustomerPage" />
+			<class name="com.webbanking.testcases.TC_EndToEnd" />
+			<class name="com.webbanking.testcases.TC_CustomerPage" />
+			<class name="com.webbanking.testcases.TC_ManagerPage" />
+			<class name="com.webbanking.testcases.TC_TransactionDetailsPage" />
+			<class name="com.webbanking.testcases.TC_LoginPage" />
+			<class name="com.webbanking.testcases.TC_AccountPage" />
+			<class name="com.webbanking.testcases.TC_OpenAccountPage" />
+		</classes>
+	</test> <!-- Chrome-Test -->
+
+	<test name="FireFox-Test">
+		<parameter name="browser" value="firefox"></parameter>
+		<classes>
+			<class name="com.webbanking.testcases.TC_CustomerDetailsPage" />
+			<class name="com.webbanking.testcases.TC_AddCustomerPage" />
+			<class name="com.webbanking.testcases.TC_EndToEnd" />
+			<class name="com.webbanking.testcases.TC_CustomerPage" />
+			<class name="com.webbanking.testcases.TC_ManagerPage" />
+			<class name="com.webbanking.testcases.TC_TransactionDetailsPage" />
+			<class name="com.webbanking.testcases.TC_LoginPage" />
+			<class name="com.webbanking.testcases.TC_AccountPage" />
+			<class name="com.webbanking.testcases.TC_OpenAccountPage" />
+		</classes>
+	</test> <!-- FireFox-Test -->
+
+</suite> <!-- Cross-Browser -->

@@ -1,0 +1,15 @@
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\base\BaseClass.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\CustomerPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\ManagerPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\LoginPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\AddCustomerPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\TransactionDetailsPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\utilities\ReportingClass.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\utilities\ReadConfig.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\CustomerDetailsPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\dataprovider\DataProviders.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\utilities\XLUtils.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\AccountPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\utilities\TestUtils.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\pageobjects\OpenAccountPage.java
+A:\AutomationProjects_java\webbanking\src\main\java\com\webbanking\utilities\ListenerClass.java

@@ -1,0 +1,9 @@
+com\webbanking\testcases\TC_OpenAccountPage.class
+com\webbanking\testcases\TC_TransactionDetailsPage.class
+com\webbanking\testcases\TC_AddCustomerPage.class
+com\webbanking\testcases\TC_LoginPage.class
+com\webbanking\testcases\TC_CustomerDetailsPage.class
+com\webbanking\testcases\TC_ManagerPage.class
+com\webbanking\testcases\TC_EndToEnd.class
+com\webbanking\testcases\TC_AccountPage.class
+com\webbanking\testcases\TC_CustomerPage.class
