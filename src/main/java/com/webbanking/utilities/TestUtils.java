@@ -80,7 +80,6 @@ public class TestUtils {
 		
 		// image path for jenkins
 		//String imgPathJenkins = "" + imageFile;
-		
 		return destination;
 	}
 	
