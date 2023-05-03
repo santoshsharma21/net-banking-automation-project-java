@@ -30,3 +30,4 @@ Link :- https://www.globalsqa.com/angularJs-protractor/BankingProject
 * Selenium(Webdriver)
 * TestNg
 * Maven
+* ExtentReports
