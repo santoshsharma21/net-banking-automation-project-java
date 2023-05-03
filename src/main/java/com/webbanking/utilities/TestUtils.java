@@ -79,10 +79,10 @@ public class TestUtils {
 		}
 		
 		// image path for jenkins
-//		String imgPathJenkins = "http://localhost:8080/job/net-banking-project/ws/screenshots/" + imageFile;
-//		return imgPathJenkins;
+		String imgPathJenkins = "http://localhost:8080/job/net-banking-project/ws/screenshots/" + imageFile;
+		return imgPathJenkins;
 		
-		return destination;
+//		return destination;
 	}
 	
 }
