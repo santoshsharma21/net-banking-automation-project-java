@@ -84,3 +84,175 @@
 2023-02-10 19:30:00,251 - webbank -INFO - getting transaction details
 2023-02-10 19:30:00,252 - webbank -INFO - Test Passed
 2023-02-10 19:30:00,253 - webbank -INFO - ========== endToendTest END ==========
+2023-05-03 17:42:06,361 - webbank -INFO - ========== verifyCustomerDetailsTest START ==========
+2023-05-03 17:42:06,549 - webbank -INFO - clicked on customers button
+2023-05-03 17:42:07,900 - webbank -INFO - saved customer details
+2023-05-03 17:42:07,903 - webbank -INFO - Test Passed
+2023-05-03 17:42:07,904 - webbank -INFO - ========== verifyCustomerDetailsTest END ==========
+2023-05-03 17:42:21,037 - webbank -INFO - ========== deleteCustomerTest START ==========
+2023-05-03 17:42:21,112 - webbank -INFO - clicked on customers button
+2023-05-03 17:42:21,113 - webbank -INFO - entered customer name, postal code
+2023-05-03 17:42:32,534 - webbank -INFO - clicked on delete button to delete customer
+2023-05-03 17:42:32,535 - webbank -INFO - Test Passed
+2023-05-03 17:42:32,535 - webbank -INFO - ========== deleteCustomerTest END ==========
+2023-05-03 17:42:38,311 - webbank -INFO - ========== addCustomerTest START ==========
+2023-05-03 17:42:39,064 - webbank -INFO - clicked on managerlogin button
+2023-05-03 17:42:39,640 - webbank -INFO - clicked on addcustomer button
+2023-05-03 17:42:40,820 - webbank -INFO - entered first name, last name & postal code
+2023-05-03 17:42:41,958 - webbank -INFO - clicked on submit button and saved alert window message
+2023-05-03 17:42:41,970 - webbank -INFO - Test Passed
+2023-05-03 17:42:41,971 - webbank -INFO - ========== addCustomerTest END ==========
+2023-05-03 17:42:50,003 - webbank -INFO - ========== endToendTest START ==========
+2023-05-03 17:42:50,766 - webbank -INFO - clicked on managerlogin button
+2023-05-03 17:42:51,182 - webbank -INFO - clicked on addcustomer button
+2023-05-03 17:42:52,234 - webbank -INFO - entered first name, last name and postal code
+2023-05-03 17:42:53,367 - webbank -INFO - new customer added successfully
+2023-05-03 17:42:53,509 - webbank -INFO - clicked on openaccount button
+2023-05-03 17:42:54,226 - webbank -INFO - entered name and currency
+2023-05-03 17:42:54,935 - webbank -INFO - account opened successfully
+2023-05-03 17:42:55,048 - webbank -INFO - clicked on home button
+2023-05-03 17:42:55,129 - webbank -INFO - clicked on customerlogin button
+2023-05-03 17:42:55,606 - webbank -INFO - user selected from drop down
+2023-05-03 17:42:55,683 - webbank -INFO - login successful
+2023-05-03 17:42:56,749 - webbank -INFO - amount entered to deposit
+2023-05-03 17:42:56,884 - webbank -INFO - amount credited successfully
+2023-05-03 17:42:57,955 - webbank -INFO - amount entered to withdraw
+2023-05-03 17:42:58,509 - webbank -INFO - amount debited successfully
+2023-05-03 17:42:58,832 - webbank -INFO - clicked on transactions button
+2023-05-03 17:42:59,471 - webbank -INFO - getting transaction details
+2023-05-03 17:42:59,471 - webbank -INFO - Test Passed
+2023-05-03 17:42:59,471 - webbank -INFO - ========== endToendTest END ==========
+2023-05-03 17:43:06,434 - webbank -INFO - ========== customerLoginTest START ==========
+2023-05-03 17:43:07,056 - webbank -INFO - clicked on customer login button
+2023-05-03 17:43:07,574 - webbank -INFO - selected user name from drop down
+2023-05-03 17:43:07,663 - webbank -INFO - clicked on login button
+2023-05-03 17:43:08,075 - webbank -INFO - login successful
+2023-05-03 17:43:08,076 - webbank -INFO - Test Passed
+2023-05-03 17:43:08,076 - webbank -INFO - ========== customerLoginTest END ==========
+2023-05-03 17:43:14,751 - webbank -INFO - ========== addCustomerButtonDisplayTest START ==========
+2023-05-03 17:43:15,145 - webbank -INFO - verifying addcustomer button
+2023-05-03 17:43:15,145 - webbank -INFO - Test Passed
+2023-05-03 17:43:15,145 - webbank -INFO - ========== addCustomerButtonDisplayTest END ==========
+2023-05-03 17:43:22,784 - webbank -INFO - ========== openAccountButtonDisplayTest START ==========
+2023-05-03 17:43:23,172 - webbank -INFO - verifying openaccount button
+2023-05-03 17:43:23,173 - webbank -INFO - Test Passed
+2023-05-03 17:43:23,173 - webbank -INFO - ========== openAccountButtonDisplayTest END ==========
+2023-05-03 17:43:29,762 - webbank -INFO - ========== customersButtonDisplayTest START ==========
+2023-05-03 17:43:30,180 - webbank -INFO - verifying customers button
+2023-05-03 17:43:30,181 - webbank -INFO - Test Passed
+2023-05-03 17:43:30,181 - webbank -INFO - ========== customersButtonDisplayTest END ==========
+2023-05-03 17:43:42,022 - webbank -INFO - ========== verifyTransactionDetailsTest START ==========
+2023-05-03 17:43:42,318 - webbank -INFO - clicked on transactions button
+2023-05-03 17:43:43,099 - webbank -INFO - getting transaction details
+2023-05-03 17:43:43,100 - webbank -INFO - Test Passed
+2023-05-03 17:43:43,100 - webbank -INFO - ========== verifyTransactionDetailsTest END ==========
+2023-05-03 17:43:50,688 - webbank -INFO - ========== customerLoginButtonDisplayTest START ==========
+2023-05-03 17:43:51,556 - webbank -INFO - verifying customer login button display status
+2023-05-03 17:43:51,557 - webbank -INFO - Test Passed
+2023-05-03 17:43:51,557 - webbank -INFO - ========== customerLoginButtonDisplayTest END ==========
+2023-05-03 17:44:37,896 - webbank -INFO - ========== managerLoginButtonDisplayTest START ==========
+2023-05-03 17:44:38,956 - webbank -INFO - verifying manager login button display status
+2023-05-03 17:44:38,956 - webbank -INFO - Test Passed
+2023-05-03 17:44:38,957 - webbank -INFO - ========== managerLoginButtonDisplayTest END ==========
+2023-05-03 17:44:49,625 - webbank -INFO - ========== depositTest START ==========
+2023-05-03 17:44:50,809 - webbank -INFO - amount entered to deposit
+2023-05-03 17:44:51,030 - webbank -INFO - clicked on button to deposit amount and saved message
+2023-05-03 17:44:51,031 - webbank -INFO - Test Passed
+2023-05-03 17:44:51,032 - webbank -INFO - ========== depositTest END ==========
+2023-05-03 17:44:59,223 - webbank -INFO - ========== withdrawalTest START ==========
+2023-05-03 17:45:01,629 - webbank -INFO - amount entered to withdraw
+2023-05-03 17:45:01,767 - webbank -INFO - clicked on button to withdraw amount and saved message
+2023-05-03 17:45:01,768 - webbank -INFO - Test Passed
+2023-05-03 17:45:01,768 - webbank -INFO - ========== withdrawalTest END ==========
+2023-05-03 17:45:12,947 - webbank -INFO - ========== openAccountTest START ==========
+2023-05-03 17:45:13,031 - webbank -INFO - clicked on openaccount button
+2023-05-03 17:45:13,935 - webbank -INFO - entered name & currency
+2023-05-03 17:45:14,688 - webbank -INFO - clicked on process button and saved alert window message
+2023-05-03 17:45:14,688 - webbank -INFO - Test Passed
+2023-05-03 17:45:14,692 - webbank -INFO - ========== openAccountTest END ==========
+2023-05-03 17:46:02,569 - webbank -INFO - ========== verifyCustomerDetailsTest START ==========
+2023-05-03 17:46:02,799 - webbank -INFO - clicked on customers button
+2023-05-03 17:46:03,679 - webbank -INFO - saved customer details
+2023-05-03 17:46:03,679 - webbank -INFO - Test Passed
+2023-05-03 17:46:03,680 - webbank -INFO - ========== verifyCustomerDetailsTest END ==========
+2023-05-03 17:46:26,376 - webbank -INFO - ========== deleteCustomerTest START ==========
+2023-05-03 17:46:26,617 - webbank -INFO - clicked on customers button
+2023-05-03 17:46:26,618 - webbank -INFO - entered customer name, postal code
+2023-05-03 17:46:37,784 - webbank -INFO - clicked on delete button to delete customer
+2023-05-03 17:46:37,785 - webbank -INFO - Test Passed
+2023-05-03 17:46:37,785 - webbank -INFO - ========== deleteCustomerTest END ==========
+2023-05-03 17:46:53,597 - webbank -INFO - ========== addCustomerTest START ==========
+2023-05-03 17:46:54,677 - webbank -INFO - clicked on managerlogin button
+2023-05-03 17:46:55,095 - webbank -INFO - clicked on addcustomer button
+2023-05-03 17:46:55,766 - webbank -INFO - entered first name, last name & postal code
+2023-05-03 17:46:56,965 - webbank -INFO - clicked on submit button and saved alert window message
+2023-05-03 17:46:56,965 - webbank -INFO - Test Passed
+2023-05-03 17:46:56,966 - webbank -INFO - ========== addCustomerTest END ==========
+2023-05-03 17:47:12,767 - webbank -INFO - ========== endToendTest START ==========
+2023-05-03 17:47:13,676 - webbank -INFO - clicked on managerlogin button
+2023-05-03 17:47:14,002 - webbank -INFO - clicked on addcustomer button
+2023-05-03 17:47:14,504 - webbank -INFO - entered first name, last name and postal code
+2023-05-03 17:47:15,721 - webbank -INFO - new customer added successfully
+2023-05-03 17:47:15,965 - webbank -INFO - clicked on openaccount button
+2023-05-03 17:47:16,745 - webbank -INFO - entered name and currency
+2023-05-03 17:47:17,479 - webbank -INFO - account opened successfully
+2023-05-03 17:47:17,518 - webbank -INFO - clicked on home button
+2023-05-03 17:47:17,740 - webbank -INFO - clicked on customerlogin button
+2023-05-03 17:47:18,147 - webbank -INFO - user selected from drop down
+2023-05-03 17:47:18,387 - webbank -INFO - login successful
+2023-05-03 17:47:19,352 - webbank -INFO - amount entered to deposit
+2023-05-03 17:47:19,633 - webbank -INFO - amount credited successfully
+2023-05-03 17:47:20,943 - webbank -INFO - amount entered to withdraw
+2023-05-03 17:47:21,225 - webbank -INFO - amount debited successfully
+2023-05-03 17:47:21,678 - webbank -INFO - clicked on transactions button
+2023-05-03 17:47:22,155 - webbank -INFO - getting transaction details
+2023-05-03 17:47:22,155 - webbank -INFO - Test Passed
+2023-05-03 17:47:22,155 - webbank -INFO - ========== endToendTest END ==========
+2023-05-03 17:47:37,509 - webbank -INFO - ========== customerLoginTest START ==========
+2023-05-03 17:47:38,456 - webbank -INFO - clicked on customer login button
+2023-05-03 17:47:38,858 - webbank -INFO - selected user name from drop down
+2023-05-03 17:47:39,114 - webbank -INFO - clicked on login button
+2023-05-03 17:47:39,327 - webbank -INFO - login successful
+2023-05-03 17:47:39,328 - webbank -INFO - Test Passed
+2023-05-03 17:47:39,328 - webbank -INFO - ========== customerLoginTest END ==========
+2023-05-03 17:47:56,336 - webbank -INFO - ========== addCustomerButtonDisplayTest START ==========
+2023-05-03 17:47:56,484 - webbank -INFO - verifying addcustomer button
+2023-05-03 17:47:56,484 - webbank -INFO - Test Passed
+2023-05-03 17:47:56,485 - webbank -INFO - ========== addCustomerButtonDisplayTest END ==========
+2023-05-03 17:48:13,126 - webbank -INFO - ========== openAccountButtonDisplayTest START ==========
+2023-05-03 17:48:13,261 - webbank -INFO - verifying openaccount button
+2023-05-03 17:48:13,261 - webbank -INFO - Test Passed
+2023-05-03 17:48:13,261 - webbank -INFO - ========== openAccountButtonDisplayTest END ==========
+2023-05-03 17:48:33,129 - webbank -INFO - ========== customersButtonDisplayTest START ==========
+2023-05-03 17:48:33,271 - webbank -INFO - verifying customers button
+2023-05-03 17:48:33,271 - webbank -INFO - Test Passed
+2023-05-03 17:48:33,271 - webbank -INFO - ========== customersButtonDisplayTest END ==========
+2023-05-03 17:48:59,405 - webbank -INFO - ========== verifyTransactionDetailsTest START ==========
+2023-05-03 17:48:59,861 - webbank -INFO - clicked on transactions button
+2023-05-03 17:49:00,169 - webbank -INFO - getting transaction details
+2023-05-03 17:49:00,169 - webbank -INFO - Test Passed
+2023-05-03 17:49:00,169 - webbank -INFO - ========== verifyTransactionDetailsTest END ==========
+2023-05-03 17:49:16,380 - webbank -INFO - ========== customerLoginButtonDisplayTest START ==========
+2023-05-03 17:49:17,098 - webbank -INFO - verifying customer login button display status
+2023-05-03 17:49:17,098 - webbank -INFO - Test Passed
+2023-05-03 17:49:17,099 - webbank -INFO - ========== customerLoginButtonDisplayTest END ==========
+2023-05-03 17:49:32,779 - webbank -INFO - ========== managerLoginButtonDisplayTest START ==========
+2023-05-03 17:49:33,523 - webbank -INFO - verifying manager login button display status
+2023-05-03 17:49:33,524 - webbank -INFO - Test Passed
+2023-05-03 17:49:33,524 - webbank -INFO - ========== managerLoginButtonDisplayTest END ==========
+2023-05-03 17:49:50,612 - webbank -INFO - ========== depositTest START ==========
+2023-05-03 17:49:51,529 - webbank -INFO - amount entered to deposit
+2023-05-03 17:49:51,845 - webbank -INFO - clicked on button to deposit amount and saved message
+2023-05-03 17:49:51,845 - webbank -INFO - Test Passed
+2023-05-03 17:49:51,845 - webbank -INFO - ========== depositTest END ==========
+2023-05-03 17:50:08,283 - webbank -INFO - ========== withdrawalTest START ==========
+2023-05-03 17:50:10,821 - webbank -INFO - amount entered to withdraw
+2023-05-03 17:50:11,114 - webbank -INFO - clicked on button to withdraw amount and saved message
+2023-05-03 17:50:11,114 - webbank -INFO - Test Passed
+2023-05-03 17:50:11,116 - webbank -INFO - ========== withdrawalTest END ==========
+2023-05-03 17:50:33,604 - webbank -INFO - ========== openAccountTest START ==========
+2023-05-03 17:50:33,833 - webbank -INFO - clicked on openaccount button
+2023-05-03 17:50:34,588 - webbank -INFO - entered name & currency
+2023-05-03 17:50:35,348 - webbank -INFO - clicked on process button and saved alert window message
+2023-05-03 17:50:35,349 - webbank -INFO - Test Passed
+2023-05-03 17:50:35,349 - webbank -INFO - ========== openAccountTest END ==========
