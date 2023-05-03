@@ -17,7 +17,6 @@ Link :- https://www.globalsqa.com/angularJs-protractor/BankingProject
 
 
 ## TEST REPORT SCREENSHOTS :-
-### Extent Test Report Screenshots
 ![pic_1](report_scrshot/webbanking_test_report1.png)
 
 ![pic_2](report_scrshot/webbanking_test_report2.png)
